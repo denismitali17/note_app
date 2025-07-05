@@ -1,0 +1,54 @@
+# Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Flutter plugins
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sw?
+
+# VS Code
+.vscode/
+
+# macOS/Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Firebase / Keys
+google-services.json
+GoogleService-Info.plist
+*.keystore
+*.jks
+*.p12
+.env
+
+# Symbol & mapping files (obfuscation)
+app.*.map.json
+app.*.symbols
+
+# Android Studio
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# API docs
+doc/api/
+
+# Misc
+migrate_working_dir/
+.history
